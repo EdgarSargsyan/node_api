@@ -8,7 +8,7 @@ run npm i
 
   	For show all users lists send GET request localhost:3000/
 	
-	For search user list by id send POST request  localhost:3000/user/`user id	
+	For search user list by id send GET request  localhost:3000/user/`user id	
 					(localhost:3000/delete/user/5a591ce1cb240a37c2616095)
 	
 	For add user list send POST request  localhost:3000/add  and send request body 
